@@ -38,6 +38,7 @@
 <hr>
 <hr>
 <hr>
+![](https://github.com/apiradee39/LAB-04/blob/568dea7e5f27d6bd7834969cfc0b4482f48285a5/imgs/4.1.png?raw=true)
 
 แก้ไขโปรแกรม ให้เป็นดังรูปด้านล่างนี้    
 
